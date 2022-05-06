@@ -1,0 +1,15 @@
+D:\Users\kysiakl\Desktop\WirtualnyDziekanat\VirtualDeansOffice\bin\Debug\VirtualDeansOffice.exe.config
+D:\Users\kysiakl\Desktop\WirtualnyDziekanat\VirtualDeansOffice\bin\Debug\VirtualDeansOffice.exe
+D:\Users\kysiakl\Desktop\WirtualnyDziekanat\VirtualDeansOffice\bin\Debug\VirtualDeansOffice.pdb
+D:\Users\kysiakl\Desktop\WirtualnyDziekanat\VirtualDeansOffice\bin\Debug\DatabaseServices.dll
+D:\Users\kysiakl\Desktop\WirtualnyDziekanat\VirtualDeansOffice\bin\Debug\XMLManipulation.dll
+D:\Users\kysiakl\Desktop\WirtualnyDziekanat\VirtualDeansOffice\bin\Debug\EntityFramework.dll
+D:\Users\kysiakl\Desktop\WirtualnyDziekanat\VirtualDeansOffice\bin\Debug\DatabaseServices.pdb
+D:\Users\kysiakl\Desktop\WirtualnyDziekanat\VirtualDeansOffice\bin\Debug\DatabaseServices.dll.config
+D:\Users\kysiakl\Desktop\WirtualnyDziekanat\VirtualDeansOffice\bin\Debug\XMLManipulation.pdb
+D:\Users\kysiakl\Desktop\WirtualnyDziekanat\VirtualDeansOffice\bin\Debug\EntityFramework.xml
+D:\Users\kysiakl\Desktop\WirtualnyDziekanat\VirtualDeansOffice\obj\Debug\VirtualDeansOffice.csprojAssemblyReference.cache
+D:\Users\kysiakl\Desktop\WirtualnyDziekanat\VirtualDeansOffice\obj\Debug\VirtualDeansOffice.csproj.CoreCompileInputs.cache
+D:\Users\kysiakl\Desktop\WirtualnyDziekanat\VirtualDeansOffice\obj\Debug\VirtualDeansOffice.csproj.CopyComplete
+D:\Users\kysiakl\Desktop\WirtualnyDziekanat\VirtualDeansOffice\obj\Debug\VirtualDeansOffice.exe
+D:\Users\kysiakl\Desktop\WirtualnyDziekanat\VirtualDeansOffice\obj\Debug\VirtualDeansOffice.pdb
