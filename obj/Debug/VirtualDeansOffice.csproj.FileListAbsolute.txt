@@ -13,3 +13,18 @@ D:\Users\kysiakl\Desktop\WirtualnyDziekanat\VirtualDeansOffice\obj\Debug\Virtual
 D:\Users\kysiakl\Desktop\WirtualnyDziekanat\VirtualDeansOffice\obj\Debug\VirtualDeansOffice.csproj.CopyComplete
 D:\Users\kysiakl\Desktop\WirtualnyDziekanat\VirtualDeansOffice\obj\Debug\VirtualDeansOffice.exe
 D:\Users\kysiakl\Desktop\WirtualnyDziekanat\VirtualDeansOffice\obj\Debug\VirtualDeansOffice.pdb
+E:\Studia\III ROK\SEMESTR II\Technologie komponenetowe\Zaliczenie\VirtualDeansOffice\bin\Debug\VirtualDeansOffice.exe.config
+E:\Studia\III ROK\SEMESTR II\Technologie komponenetowe\Zaliczenie\VirtualDeansOffice\bin\Debug\VirtualDeansOffice.exe
+E:\Studia\III ROK\SEMESTR II\Technologie komponenetowe\Zaliczenie\VirtualDeansOffice\bin\Debug\VirtualDeansOffice.pdb
+E:\Studia\III ROK\SEMESTR II\Technologie komponenetowe\Zaliczenie\VirtualDeansOffice\bin\Debug\EntityFramework.dll
+E:\Studia\III ROK\SEMESTR II\Technologie komponenetowe\Zaliczenie\VirtualDeansOffice\bin\Debug\DatabaseServices.pdb
+E:\Studia\III ROK\SEMESTR II\Technologie komponenetowe\Zaliczenie\VirtualDeansOffice\bin\Debug\DatabaseServices.dll.config
+E:\Studia\III ROK\SEMESTR II\Technologie komponenetowe\Zaliczenie\VirtualDeansOffice\bin\Debug\XMLManipulation.pdb
+E:\Studia\III ROK\SEMESTR II\Technologie komponenetowe\Zaliczenie\VirtualDeansOffice\bin\Debug\EntityFramework.xml
+E:\Studia\III ROK\SEMESTR II\Technologie komponenetowe\Zaliczenie\VirtualDeansOffice\obj\Debug\VirtualDeansOffice.csprojAssemblyReference.cache
+E:\Studia\III ROK\SEMESTR II\Technologie komponenetowe\Zaliczenie\VirtualDeansOffice\obj\Debug\VirtualDeansOffice.csproj.CoreCompileInputs.cache
+E:\Studia\III ROK\SEMESTR II\Technologie komponenetowe\Zaliczenie\VirtualDeansOffice\obj\Debug\VirtualDeansOffice.csproj.CopyComplete
+E:\Studia\III ROK\SEMESTR II\Technologie komponenetowe\Zaliczenie\VirtualDeansOffice\obj\Debug\VirtualDeansOffice.exe
+E:\Studia\III ROK\SEMESTR II\Technologie komponenetowe\Zaliczenie\VirtualDeansOffice\obj\Debug\VirtualDeansOffice.pdb
+E:\Studia\III ROK\SEMESTR II\Technologie komponenetowe\Zaliczenie\VirtualDeansOffice\bin\Debug\EntityFramework.SqlServer.dll
+E:\Studia\III ROK\SEMESTR II\Technologie komponenetowe\Zaliczenie\VirtualDeansOffice\bin\Debug\EntityFramework.SqlServer.xml
